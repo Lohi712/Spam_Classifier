@@ -1,1 +1,25 @@
-# Spam_Classifier
+# Spam Classifier
+
+This is a simple machine learning project that classifies text messages as Spam or Not Spam using Python and scikit-learn.
+
+The dataset is loaded from: 'https://raw.githubusercontent.com/justmarkham/pycon-2016-tutorial/master/data/sms.tsv'
+It contains:
+label → spam or ham
+message → SMS text
+
+# What the Project Does
+
+Loads and inspects the dataset
+Cleans text (lowercase, remove punctuation, remove stopwords)
+Creates bag-of-words features using CountVectorizer
+Splits data into train/test sets
+Trains a Multinomial Naive Bayes classifier
+Predicts spam/ham for example messages
+
+# Technologies Used
+
+Python
+Pandas
+NumPy
+NLTK
+Scikit-learn
