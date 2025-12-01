@@ -20,8 +20,8 @@ And here we also Checked the model performance with a new unseen dataset from Ka
 
 ## Technologies Used
 
-Python
-Pandas
-NumPy
-NLTK
-Scikit-learn
+Python,
+Pandas,
+NumPy,
+NLTK,
+Scikit-learn,
