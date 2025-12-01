@@ -1,4 +1,4 @@
- Spam Classifier
+# Spam Classifier
 
 This is a simple machine learning project that classifies text messages as Spam or Not Spam using Python and scikit-learn.
 
