@@ -1,4 +1,4 @@
-# Spam Classifier
+ Spam Classifier
 
 This is a simple machine learning project that classifies text messages as Spam or Not Spam using Python and scikit-learn.
 
@@ -15,6 +15,8 @@ Creates bag-of-words features using CountVectorizer
 Splits data into train/test sets
 Trains a Multinomial Naive Bayes classifier
 Predicts spam/ham for example messages
+
+And here we also Checked the model performance with a new unseen dataset from Kaggle and our model performed well on this dataset too (Accuracy: 98.79%)
 
 # Technologies Used
 
