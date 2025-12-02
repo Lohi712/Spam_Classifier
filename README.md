@@ -7,7 +7,7 @@ It contains:
 label → spam or ham
 message → SMS text
 
-# What the Project Does
+## What the Project Does
 
 Loads and inspects the dataset
 Cleans text (lowercase, remove punctuation, remove stopwords)
@@ -16,10 +16,12 @@ Splits data into train/test sets
 Trains a Multinomial Naive Bayes classifier
 Predicts spam/ham for example messages
 
-# Technologies Used
+And here we also Checked the model performance with a new unseen dataset from Kaggle and our model performed well on this dataset too (Accuracy: 98.79%)
 
-Python
-Pandas
-NumPy
-NLTK
-Scikit-learn
+## Technologies Used
+
+Python,
+Pandas,
+NumPy,
+NLTK,
+Scikit-learn,
