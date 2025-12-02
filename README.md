@@ -2,7 +2,7 @@
 
 This is a simple machine learning project that classifies text messages as Spam or Not Spam using Python and scikit-learn.
 
-The dataset is loaded from: 'https://raw.githubusercontent.com/justmarkham/pycon-2016-tutorial/master/data/sms.tsv'
+The dataset is loaded from: 'https://raw.githubusercontent.com/justmarkham/pycon-2016-tutorial/master/data/sms.tsv' and combined with a self made dataset for more types of SPAM messages.
 It contains:
 label → spam or ham
 message → SMS text
